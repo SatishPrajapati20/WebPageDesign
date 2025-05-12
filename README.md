@@ -15,5 +15,5 @@ JavaScript: For toggle button and interactivity.
 Google Fonts: To enhance typography and aesthetics.
 
 Live Demo (If available):
-If you have a demo link, you can mention it here:
-[[Insert Demo Link Here](https://satishprajapati20.github.io/WebPageDesign/)]
+[[Click here to view the live demo](https://satishprajapati20.github.io/WebPageDesign/)]
+
